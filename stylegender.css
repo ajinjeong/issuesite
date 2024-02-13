@@ -1,0 +1,35 @@
+.menstrualproducts {
+	background: #f7cac9;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	padding-top: 50px;
+	margin-top: 0px;
+	padding-bottom: 20px;
+	margin-bottom: 25px;
+	font-size: 50px;
+	font-family: 'Protest Strike', sans-serif;
+}
+
+body {
+	margin: 0px;
+}
+
+.description {
+	font-size: 20px;
+	min-height: 25px;
+	background: #f7cac9;
+	padding-top: 80px;
+	margin-left: 20px;
+	padding-bottom: 74px;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+	}
+
+.harvard {
+	text-align: center;
+	font-size: 24px;
+}

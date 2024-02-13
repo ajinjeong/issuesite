@@ -1,0 +1,48 @@
+.menstrualproducts {
+	background: #f7cac9;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	padding-top: 50px;
+	margin-top: 0px;
+	padding-bottom: 20px;
+	margin-bottom: 25px;
+	font-size: 50px;
+	font-family: 'Protest Strike', sans-serif;
+}
+
+body {
+	margin: 0px;
+	background: url('menstrualproducts.jpg');
+}
+
+.description {
+	font-size: 20px;
+	min-height: 25px;
+	background: #f7cac9;
+	padding-top: 20px;
+	padding-left: 10px;
+	position: relative;
+	padding-bottom: 25px;
+	}
+.gender {
+	display: inline-block;
+	background: #f7cac9;
+	width: 47.5%;
+	text-align: center;
+	font-size: 24px;
+	box-sizing: border-box;
+	padding-top: 15px;
+	padding-bottom: 25px;
+	margin-left: 25px;
+	}
+
+.new {
+	width: 100%;
+	align-items: center;
+}
+
+
+
+
+
